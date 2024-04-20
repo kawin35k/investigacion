@@ -1,0 +1,1 @@
+.ndim #muestra la cantidad de dimenciones
